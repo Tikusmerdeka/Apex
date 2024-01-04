@@ -27,8 +27,8 @@ fun_bar() {
     tput cnorm
 }
 res1() {
-    wget https://raw.githubusercontent.com/Tikusmerdeka/Apex/ZX/menu/menu.zip
-    wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/gemilangkinasih/Apex/ZX/encrypt/epro" ; chmod +x /usr/bin/enc
+    wget https://raw.githubusercontent.com/Tikusmerdeka/Apex/main/menu/menu.zip
+    wget -q -O /usr/bin/enc "https://raw.githubusercontent.com/Tikusmerdeka/Apex/main/encrypt/epro" ; chmod +x /usr/bin/enc
     7z e -paskykenza123 menu.zip
     unzip menu.zip
     chmod +x menu/*
