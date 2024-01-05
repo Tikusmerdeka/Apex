@@ -18,7 +18,7 @@ apt install -y && apt update -y && apt upgrade -y && wget -q https://raw.githubu
 
 ## `WAJIB IZIN IP, SILAHKAN HUBUNGI ADMIN !`
 Gemilang Kinasih :
-<br><br><a href="https://wa.me/+628984880039" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
+<br><br><a href="https://wa.me/+6283805609815" target=”_blank”><img src="https://img.shields.io/static/v1?style=for-the-badge&logo=Whatsapp&label=Whatsapp&message=Click%20Here&color=#006400">
 
 ## UPDATE SCRIPT
 Masukkan perintah dibawah jika terdapat informasi pembaruan Script untuk versi yang akan datang
@@ -63,9 +63,6 @@ wget -q https://raw.githubusercontent.com/Tikusmerdeka/Apex/main/update.sh && ch
 - Always Use HTTPS : OFF
 - UNDER ATTACK MODE : OFF
 ```
-
-## TAMPILAN MENU SCRIPT
-<img width="100%" alt="image" src="https://github.com/gemilangkinasih/Apex/assets/121762056/cfc25f09-0cee-49de-81a1-28fde48c1c00">
 
 ## `! WARNING !`
 Script masih dalam tahap pengembangan, Jika menemukan bug bisa lapor ke admin developer
