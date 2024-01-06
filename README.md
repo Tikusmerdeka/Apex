@@ -44,7 +44,7 @@ wget -q https://raw.githubusercontent.com/Tikusmerdeka/Apex/main/update.sh && ch
 - Auto reboot vps server
 
   ## TAMPILAN SCRIPT
-![alt text](?raw=true)
+![alt text](https://github.com/Tikusmerdeka/Apex/blob/main/Screenshot_2024-01-06-14-12-54-78_61c78dc80ee02b53007c815fefe993e3.jpg?raw=true)
 
 ## PORT INFO
 ```
