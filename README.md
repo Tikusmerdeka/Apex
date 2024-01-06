@@ -43,6 +43,9 @@ wget -q https://raw.githubusercontent.com/Tikusmerdeka/Apex/main/update.sh && ch
 - Auto delete expired
 - Auto reboot vps server
 
+  ## TAMPILAN SCRIPT
+![alt text](?raw=true)
+
 ## PORT INFO
 ```
 - TROJAN WS 443
